@@ -1,0 +1,34 @@
+{
+  "name": "js_testing",
+  "version": "1.0.0",
+  "description": "JavaScript Testing",
+  "main": "factorial.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrmarmol/javascript-testing.git"
+  },
+  "keywords": [
+    "mocha",
+    "assert",
+    "js",
+    "javascript",
+    "testing",
+    "framework"
+  ],
+  "author": "Kurt Russelle Marmol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkrmarmol/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/jkrmarmol/javascript-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
